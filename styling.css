@@ -1,0 +1,28 @@
+
+body{
+	background-image: url(kkuma.jpg);
+	background-color: lightgrey;
+	background-size: cover;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+h1{
+	border: 2px solid;
+	border-color: red;
+	border-width: 6px;
+	border-radius: 25px;
+	background-color: grey;
+	text-align: center;
+	color: blue;
+	font-style: italic;
+	padding-top: 20px;
+}
+ul li{
+	font-family: algerian;
+	font-size: 25px;
+	color: rgb(238, 130, 238);
+}
+H2{
+	background: rgb(180, 180, 180);
+	color: hsl(0, 20%, 50%);
+}

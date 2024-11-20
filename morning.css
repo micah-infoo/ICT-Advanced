@@ -1,0 +1,46 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.footer{
+	margin-top: auto;
+	background-color: black;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	padding: ;
+	position: fixed;
+
+}
+.footer:hover{
+	background-color: blue;
+}
+.ab ul{
+	display: flex;
+	justify-content: center;
+}
+.ab ul li a{
+	color: white;
+	margin: 25px;
+	text-decoration: none;
+}
+.ab ul li a:hover{
+	background-color: grey;
+}
+.copy p{
+	color: blue;
+	padding: 8px;
+	text-align: center;
+}
+.copy p:hover{
+	color: yellow;
+	background-color: green;
+}
+.cc{
+	margin-left: 50px;
+	margin-right: 50px;
+}
+h1{
+	text-align: center;
+}
